@@ -6,8 +6,8 @@ you might want to decrypt it)
 
 After that, run the command below:
 
-Decrypt
-	 /opt/oracle/Middleware/Oracle_Home/wlserver/common/bin/wlst.sh wlsdecrypt.py boot.properties or
+	 Decrypt
+	 /opt/oracle/Middleware/Oracle_Home/wlserver/common/bin/wlst.sh wlsdecrypt.py boot.properties
 	 
 	 Encrypt
 	 /opt/oracle/Middleware/Oracle_Home/wlserver/common/bin/wlst.sh wlsencrypt.py boot.properties
